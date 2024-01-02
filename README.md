@@ -5,8 +5,8 @@
 
 # Working 
 #Go to the searchbar and enter the city name then it will gives the data. <br/>
-#It is showing the data for three days forecast. `\`
-#Using the rapid weatherapi.
+#It is showing the data for three days forecast.<br/>
+#Using the rapid weatherapi.<br/>
 
 
 # Userinterface of the application
